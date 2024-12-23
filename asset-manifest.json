@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/word-works-contact/static/css/main.ea282d56.css",
-    "main.js": "/word-works-contact/static/js/main.5061e913.js",
-    "static/media/fa-solid-900.ttf": "/word-works-contact/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
-    "static/media/fa-brands-400.ttf": "/word-works-contact/static/media/fa-brands-400.1815e00441357e01619e.ttf",
-    "static/media/fa-solid-900.woff2": "/word-works-contact/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
-    "static/media/fa-brands-400.woff2": "/word-works-contact/static/media/fa-brands-400.c210719e60948b211a12.woff2",
-    "static/media/fa-regular-400.ttf": "/word-works-contact/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
-    "static/media/fa-regular-400.woff2": "/word-works-contact/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
-    "static/media/earth-globe.png": "/word-works-contact/static/media/earth-globe.60e9e306064559e4365f.png",
-    "static/media/mail.png": "/word-works-contact/static/media/mail.2c378c9ee25927123f7d.png",
-    "static/media/brain.png": "/word-works-contact/static/media/brain.a202b2e05484f87935d3.png",
-    "static/media/fa-v4compatibility.ttf": "/word-works-contact/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
-    "static/media/fa-v4compatibility.woff2": "/word-works-contact/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
-    "index.html": "/word-works-contact/index.html",
-    "main.ea282d56.css.map": "/word-works-contact/static/css/main.ea282d56.css.map",
-    "main.5061e913.js.map": "/word-works-contact/static/js/main.5061e913.js.map"
+    "main.css": "/Word-Works-Contact/static/css/main.1a0015d7.css",
+    "main.js": "/Word-Works-Contact/static/js/main.1b5a4291.js",
+    "static/media/fa-solid-900.ttf": "/Word-Works-Contact/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/fa-brands-400.ttf": "/Word-Works-Contact/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/Word-Works-Contact/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Word-Works-Contact/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/Word-Works-Contact/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-regular-400.woff2": "/Word-Works-Contact/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/earth-globe.png": "/Word-Works-Contact/static/media/earth-globe.60e9e306064559e4365f.png",
+    "static/media/mail.png": "/Word-Works-Contact/static/media/mail.2c378c9ee25927123f7d.png",
+    "static/media/brain.png": "/Word-Works-Contact/static/media/brain.a202b2e05484f87935d3.png",
+    "static/media/fa-v4compatibility.ttf": "/Word-Works-Contact/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Word-Works-Contact/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Word-Works-Contact/index.html",
+    "main.1a0015d7.css.map": "/Word-Works-Contact/static/css/main.1a0015d7.css.map",
+    "main.1b5a4291.js.map": "/Word-Works-Contact/static/js/main.1b5a4291.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea282d56.css",
-    "static/js/main.5061e913.js"
+    "static/css/main.1a0015d7.css",
+    "static/js/main.1b5a4291.js"
   ]
 }
