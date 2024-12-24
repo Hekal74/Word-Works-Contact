@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Word-Works-Contact/static/css/main.1a0015d7.css",
+    "main.css": "/Word-Works-Contact/static/css/main.c4f61f35.css",
     "main.js": "/Word-Works-Contact/static/js/main.6ef1c5d0.js",
     "static/media/fa-solid-900.ttf": "/Word-Works-Contact/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/Word-Works-Contact/static/media/fa-brands-400.1815e00441357e01619e.ttf",
@@ -14,11 +14,11 @@
     "static/media/fa-v4compatibility.ttf": "/Word-Works-Contact/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
     "static/media/fa-v4compatibility.woff2": "/Word-Works-Contact/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Word-Works-Contact/index.html",
-    "main.1a0015d7.css.map": "/Word-Works-Contact/static/css/main.1a0015d7.css.map",
+    "main.c4f61f35.css.map": "/Word-Works-Contact/static/css/main.c4f61f35.css.map",
     "main.6ef1c5d0.js.map": "/Word-Works-Contact/static/js/main.6ef1c5d0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a0015d7.css",
+    "static/css/main.c4f61f35.css",
     "static/js/main.6ef1c5d0.js"
   ]
 }
